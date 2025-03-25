@@ -1,7 +1,8 @@
 hi
 this 
 my 1st file
+<<<<<<< HEAD
 modified this file in the main branch
 =======
 modified this file in the feature branch.
-merged conflict resolved
+>>>>>>> feature/update-ui
